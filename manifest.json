@@ -158,14 +158,14 @@
     "pdf": "chemistry/2019_chemistry_paper.pdf",
     "subject": "Chemistry",
     "year": 2019,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "che-2020-chemistry",
     "pdf": "chemistry/2020_chemistry_paper.pdf",
     "subject": "Chemistry",
     "year": 2020,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "che-2022-chemistry-30002",
@@ -179,7 +179,7 @@
     "pdf": "chemistry/2023_chemistry_14090.pdf",
     "subject": "Chemistry",
     "year": 2023,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "che-2024-chemistry-55091",
