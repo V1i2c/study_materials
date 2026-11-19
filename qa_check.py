@@ -38,7 +38,7 @@ WHITELIST = {
         "Determinants", "Continuity and Differentiability", "Application of Derivatives",
         "Integrals", "Application of Integrals", "Differential Equations",
         "Vector Algebra", "Three Dimensional Geometry", "Linear Programming",
-        "Probability",
+        "Probability", "Deleted / Old Syllabus",
     ],
     "English Core": [
         "Reading Comprehension", "Creative Writing Skills", "The Last Lesson",
