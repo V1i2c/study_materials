@@ -1,4 +1,10 @@
 node_modules/
+package-lock.json
 tmp_pages/
 _work/
-package-lock.json
+__pycache__/
+*.tmp
+
+# pip download leftovers
+*.whl
+*.tar.gz
