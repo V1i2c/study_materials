@@ -1,0 +1,4 @@
+node_modules/
+tmp_pages/
+_work/
+package-lock.json
