@@ -39,63 +39,63 @@
     "pdf": "physics/2017_physics_paper.pdf",
     "subject": "Physics",
     "year": 2017,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2018-physics",
     "pdf": "physics/2018_physics_paper.pdf",
     "subject": "Physics",
     "year": 2018,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2019-physics",
     "pdf": "physics/2019_physics_paper.pdf",
     "subject": "Physics",
     "year": 2019,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2020-physics",
     "pdf": "physics/2020_physics_paper.pdf",
     "subject": "Physics",
     "year": 2020,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2022-physics-30001",
     "pdf": "physics/2022_physics_30001.pdf",
     "subject": "Physics",
     "year": 2022,
-    "status": "pending"
+    "status": "excluded-practical"
   },
   {
     "key": "phy-2023-physics-8078",
     "pdf": "physics/2023_physics_8078.pdf",
     "subject": "Physics",
     "year": 2023,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2024-physics-49079",
     "pdf": "physics/2024_physics_49079.pdf",
     "subject": "Physics",
     "year": 2024,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2025-physics-9865",
     "pdf": "physics/2025_physics_9865.pdf",
     "subject": "Physics",
     "year": 2025,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2025-physics-jan-2025",
     "pdf": "physics/2025_physics_jan-2025.pdf",
     "subject": "Physics",
     "year": 2025,
-    "status": "pending"
+    "status": "done"
   },
   {
     "key": "phy-2026-physics-1846",

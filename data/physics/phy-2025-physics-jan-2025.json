@@ -1,0 +1,282 @@
+{
+ "key": "phy-2025-physics-jan-2025",
+ "subject": "Physics",
+ "year": 2025,
+ "expected_total_questions": 16,
+ "questions": [
+  {
+   "id": "phy-2025jan-1",
+   "year": 2025,
+   "qno": "1",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Electromagnetic Waves",
+   "topic": "Electromagnetic Spectrum",
+   "question": "Which one is not an electromagnetic radiation?",
+   "options": [
+    "$\\alpha$-rays",
+    "$\\gamma$-rays",
+    "X-rays",
+    "Infrared rays"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** $\\alpha$-rays\n\nAn $\\alpha$-particle is a helium nucleus — two protons and two neutrons — so $\\alpha$-rays are a stream of charged material particles, not oscillating electric and magnetic fields. $\\gamma$-rays, X-rays and infrared rays are all transverse waves of mutually perpendicular $\\vec E$ and $\\vec B$ fields travelling at $c$, so all three belong to the electromagnetic spectrum.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-2",
+   "year": 2025,
+   "qno": "2",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Dual Nature of Radiation and Matter",
+   "topic": "Photoelectric Effect",
+   "question": "In a photo-electric experiment, if both the intensity and frequency of incident light are doubled, then saturation photo-electric current:",
+   "options": [
+    "remain constant",
+    "is halved",
+    "becomes four times",
+    "is doubled"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** is doubled\n\nThe saturation (maximum) photocurrent is fixed only by the number of photoelectrons emitted per second, i.e. by the *intensity* of the incident light — provided the frequency is already above the threshold. Doubling the frequency raises the maximum kinetic energy $K_{max}=h\\nu-\\phi_0$ of each electron but adds no extra electrons. Doubling the intensity doubles the number of photons arriving per second, hence doubles the saturation current.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-3",
+   "year": 2025,
+   "qno": "3",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Nuclei",
+   "topic": "Atomic Mass Unit",
+   "question": "1 a.m.u. (u) is equivalent to:",
+   "options": [
+    "$1.67\\times10^{-27}$ g",
+    "$1.67\\times10^{-27}$ kg",
+    "$3.67\\times10^{-27}$ g",
+    "$3.67\\times10^{-27}$ MeV"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** $1.67\\times10^{-27}$ kg\n\nOne atomic mass unit is defined as $1/12$ of the mass of a carbon-12 atom:\n\n$$1\\ \\text{u}=\\frac{1}{12}\\times\\frac{12}{6.022\\times10^{23}}\\ \\text{g}=1.66\\times10^{-24}\\ \\text{g}=1.66\\times10^{-27}\\ \\text{kg}$$\n\nThe value quoted on the paper, $1.67\\times10^{-27}$ kg, is the standard rounded figure. Its energy equivalent is $931.5$ MeV, not $3.67$ MeV, and the mass is $10^{-24}$ g, not $10^{-27}$ g.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-4",
+   "year": 2025,
+   "qno": "4",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Nuclei",
+   "topic": "Radioactive Decay Laws",
+   "question": "If radioactive atoms emit gamma radiation its atomic number:",
+   "options": [
+    "increases by one unit",
+    "decreases by one unit",
+    "decreases by two unit",
+    "remains unchanged"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** remains unchanged\n\nA $\\gamma$-ray is a high-energy photon with no charge and no mass number, so emitting one changes neither $Z$ nor $A$; the nucleus merely drops from an excited state to a lower one. By contrast $\\alpha$-decay lowers $Z$ by 2 and $A$ by 4, and $\\beta^-$-decay raises $Z$ by 1 while leaving $A$ unchanged.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-5",
+   "year": 2025,
+   "qno": "5",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Dual Nature of Radiation and Matter",
+   "topic": "Planck's Quantum Theory",
+   "question": "Dimension of Planck constant is:",
+   "options": [
+    "$[MLT^{-1}]$",
+    "$[ML^{2}T^{-1}]$",
+    "$[ML^{2}T^{-2}]$",
+    "$[MLT^{-2}]$"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** $[ML^{2}T^{-1}]$\n\nFrom $E=h\\nu$,\n\n$$[h]=\\frac{[E]}{[\\nu]}=\\frac{ML^{2}T^{-2}}{T^{-1}}=ML^{2}T^{-1}$$\n\nThis is the dimension of angular momentum — the same result follows from Bohr's condition $mvr=nh/2\\pi$. The other choices are momentum ($MLT^{-1}$), energy ($ML^{2}T^{-2}$) and force ($MLT^{-2}$).",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-6",
+   "year": 2025,
+   "qno": "6",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+   "topic": "Temperature Dependence",
+   "question": "As temperature increases, the resistance of a semi-conductor:",
+   "options": [
+    "increases",
+    "decreases",
+    "remains constant",
+    "depends upon the semi-conductor"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** decreases\n\nIn a semiconductor the number of charge carriers is not fixed: heating breaks more covalent bonds, so the carrier concentration $n$ grows exponentially, $n\\propto T^{3/2}e^{-E_g/2k_BT}$. Since $\\sigma=ne(\\mu_e+\\mu_h)$ and the rise in $n$ far outweighs the small fall in mobility, conductivity increases, i.e. resistance decreases — the opposite of a metal.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-7",
+   "year": 2025,
+   "qno": "7",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Dual Nature of Radiation and Matter",
+   "topic": "de Broglie Wavelength",
+   "question": "The ratio of de-Broglie wavelength associated with two electrons accelerated in 25 V and 36 V is:",
+   "options": [
+    "$25/36$",
+    "$36/25$",
+    "$5/6$",
+    "$6/5$"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** $6/5$\n\nFor an electron accelerated through a potential difference $V$,\n\n$$\\lambda=\\frac{h}{\\sqrt{2meV}}\\ \\Rightarrow\\ \\lambda\\propto\\frac{1}{\\sqrt V}$$\n\n$$\\frac{\\lambda_{25}}{\\lambda_{36}}=\\sqrt{\\frac{36}{25}}=\\frac{6}{5}$$\n\nThe higher the accelerating voltage, the shorter the de Broglie wavelength.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-8",
+   "year": 2025,
+   "qno": "8",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+   "topic": "Intrinsic Semiconductor",
+   "question": "At what temperature semi-conductor behaves like a perfect insulator?",
+   "options": [
+    "0 K",
+    "$0\\ ^\\circ$C",
+    "$0\\ ^\\circ$F",
+    "$100\\ ^\\circ$C"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** 0 K\n\nAt absolute zero the valence band is completely full and the conduction band completely empty, with the Fermi level lying in the middle of the forbidden gap. No electrons can be promoted across the gap because there is no thermal energy available ($k_BT=0$), so no charge carriers exist and the crystal behaves as a perfect insulator. At $0\\ ^\\circ$C, $0\\ ^\\circ$F or $100\\ ^\\circ$C there is still appreciable thermal energy and the semiconductor conducts weakly.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-9",
+   "year": 2025,
+   "qno": "9",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Nuclei",
+   "topic": "Radioactivity",
+   "question": "Radioactive isotope $X_{90}^{240}$ emits two $\\alpha$-particles and one $\\beta$-particle. The resulting isotope is:",
+   "options": [
+    "$Y_{87}^{232}$",
+    "$Y_{86}^{232}$",
+    "$Y_{86}^{240}$",
+    "$Y_{84}^{242}$"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** $Y_{87}^{232}$\n\nEach $\\alpha$-particle removes $A=4$ and $Z=2$; each $\\beta^-$-particle leaves $A$ alone but raises $Z$ by 1.\n\n$$A'=240-2(4)=232,\\qquad Z'=90-2(2)+1=87$$\n\nSo the daughter nucleus is $Y_{87}^{232}$. (An $\\alpha$-particle is $^{4}_{2}$He, a $\\beta^-$-particle is an electron emitted when a neutron converts to a proton.)",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-10",
+   "year": 2025,
+   "qno": "10",
+   "marks": 2,
+   "type": "MCQ",
+   "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+   "topic": "Intrinsic Semiconductor",
+   "question": "In a semi-conductor electrical conductivity is due to:",
+   "options": [
+    "electrons only",
+    "holes only",
+    "electron and holes both",
+    "none of these"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** electron and holes both\n\nIn an intrinsic semiconductor every bond broken by thermal energy creates one free electron in the conduction band *and* one vacancy (hole) in the valence band. Both are mobile under an applied field — the electron drifts against $\\vec E$, the hole (a missing electron) drifts with it — so\n\n$$\\sigma=e(n_e\\mu_e+n_h\\mu_h)$$\n\nElectrons are the majority carrier only in n-type material; in a pure semiconductor both contribute.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-11",
+   "year": 2025,
+   "qno": "11",
+   "marks": 2,
+   "type": "VSA",
+   "chapter": "Nuclei",
+   "topic": "Mass Defect",
+   "question": "What is mass defect? Give its unit.",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Mass defect** is the difference between the sum of the masses of the individual nucleons (protons and neutrons) taken separately and the actual measured mass of the assembled nucleus:\n\n$$\\Delta m=[Zm_p+(A-Z)m_n]-M_{\\text{nucleus}}$$\n\nThis missing mass appears as the binding energy of the nucleus, $E_b=\\Delta m\\,c^{2}$.\n\n**Unit:** the mass defect is measured in atomic mass units (u) or in kilograms (kg); when multiplied by $c^2$ the energy is expressed in MeV ($1\\ \\text{u}\\equiv 931.5$ MeV).\n\n*Example:* for helium, $\\Delta m=2(1.007276)+2(1.008665)-4.001506=0.030376$ u, giving $E_b\\approx28.3$ MeV.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-12",
+   "year": 2025,
+   "qno": "12",
+   "marks": 2,
+   "type": "VSA",
+   "chapter": "Dual Nature of Radiation and Matter",
+   "topic": "de Broglie Wavelength",
+   "question": "What is de-Broglie wave? Calculate the de-Broglie wave length of a proton having momentum $2.55\\times10^{-22}$ kg m s$^{-1}$ ($h=6.6\\times10^{-34}$ J s).",
+   "options": [],
+   "correctOption": null,
+   "answer": "**de Broglie wave.** Every moving material particle has a wave associated with it — the de Broglie (matter) wave — whose wavelength is\n\n$$\\lambda=\\frac{h}{p}=\\frac{h}{mv}$$\n\nA beam of such particles can therefore show diffraction and interference, exactly like light; the effect is observable only when $p$ is very small, as for electrons.\n\n**Calculation.** With $p=2.55\\times10^{-22}$ kg m s$^{-1}$ and $h=6.6\\times10^{-34}$ J s,\n\n$$\\lambda=\\frac{6.6\\times10^{-34}}{2.55\\times10^{-22}}=2.588\\times10^{-12}\\ \\text{m}\\approx2.59\\ \\text{pm}$$\n\nSo $\\lambda\\approx2.6\\times10^{-12}$ m $=2.6$ pm — of the order of nuclear dimensions, which is why a proton's wave nature is hard to see.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-13",
+   "year": 2025,
+   "qno": "13",
+   "marks": 3,
+   "type": "SA",
+   "chapter": "Atoms",
+   "topic": "Bohr Model of the Hydrogen Atom",
+   "question": "Mention the postulates of Bohr's model of atom. What are the limitations of Bohr's model?",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Postulates of Bohr's model**\n\n1. **Stationary orbits.** An electron can revolve round the nucleus only in certain permitted circular orbits in which its angular momentum is an integral multiple of $h/2\\pi$:\n\n$$mvr=\\frac{nh}{2\\pi},\\qquad n=1,2,3,\\dots$$\n\n2. **No radiation in stationary orbits.** While in such an orbit the electron does not radiate, so its energy remains constant — this is why the atom is stable despite the classical prediction of a spiralling electron.\n\n3. **Frequency condition.** Radiation is emitted or absorbed only when the electron jumps between two orbits, the photon energy being the difference of the two orbital energies:\n\n$$h\\nu=E_2-E_1$$\n\n**Limitations**\n\n- It applies strictly to **one-electron (hydrogen-like) atoms** only; it fails for helium and heavier atoms because it ignores electron–electron repulsion.\n- It cannot explain the **fine structure** of spectral lines, nor the Zeeman and Stark effects (splitting in magnetic and electric fields).\n- It makes no statement about **intensities or relative brightness** of spectral lines.\n- It is a **semi-classical mixture**: quantisation is imposed by postulate rather than derived, and it says nothing about the shape of orbits or the wave nature of the electron.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-14",
+   "year": 2025,
+   "qno": "14",
+   "marks": 3,
+   "type": "SA",
+   "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+   "topic": "p-n Junction Diode",
+   "question": "Describe with circuit diagram the working of a p-n junction diode as a full wave rectifier.",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Full-wave rectifier.** Two p-n junction diodes are used with a centre-tapped transformer (a bridge of four diodes works equally well). The a.c. input is applied across the primary; the secondary is centre-tapped at $O$, so the two halves give equal voltages in opposite phase.\n\n![Full-wave rectifier](rect)\n\n**Working**\n\n- **First half cycle:** the upper end $A$ is positive. Diode $D_1$ is forward biased and conducts, while $D_2$ is reverse biased and blocks. Current flows through $D_1$, the load $R_L$ and back to the centre tap $O$.\n- **Second half cycle:** the lower end $B$ is positive. Now $D_2$ conducts and $D_1$ blocks, but the current passes through the load **in the same direction** as before, because the return path is again through $O$.\n\nThus current flows through $R_L$ during **both** halves of the input cycle, and the output is a series of unidirectional pulses — a pulsating d.c.\n\n**Input and output waveforms.** The a.c. input is a sine wave; the output is a train of half-sine humps of the same polarity, of twice the input frequency. A filter capacitor across $R_L$ smooths this into steady d.c.\n\n**Advantages over a half-wave rectifier:** both halves of the cycle are used, so the output is steadier and the ripple frequency (twice the supply frequency) is easier to filter; the efficiency is about $81\\%$ against $40.6\\%$.\n\n*Note:* in a bridge rectifier no centre tap is needed — four diodes in a diamond arrangement give the same full-wave action.",
+   "diagramSvg": "\n<svg viewBox=\"0 0 420 250\" xmlns=\"http://www.w3.org/2000/svg\" font-size=\"11\">\n <rect width=\"420\" height=\"250\" fill=\"#fff\"/>\n <!-- transformer -->\n <line x1=\"40\" y1=\"70\" x2=\"40\" y2=\"190\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"58\" y1=\"70\" x2=\"58\" y2=\"190\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"40\" y1=\"95\" x2=\"26\" y2=\"95\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"40\" y1=\"165\" x2=\"26\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"26\" y1=\"95\" x2=\"12\" y2=\"95\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"26\" y1=\"165\" x2=\"12\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <circle cx=\"12\" cy=\"95\" r=\"3\" fill=\"#333\"/><text x=\"0\" y=\"88\">~</text>\n <circle cx=\"12\" cy=\"165\" r=\"3\" fill=\"#333\"/>\n <text x=\"18\" y=\"215\">AC input</text>\n <!-- secondary to bridge -->\n <line x1=\"58\" y1=\"95\" x2=\"110\" y2=\"95\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"58\" y1=\"165\" x2=\"110\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <!-- bridge diamond -->\n <g stroke=\"#333\" stroke-width=\"2\" fill=\"#fff\">\n  <polygon points=\"160,80 200,105 160,130 120,105\"/>\n </g>\n <text x=\"120\" y=\"75\">D1</text><text x=\"185\" y=\"75\">D2</text>\n <text x=\"120\" y=\"145\">D3</text><text x=\"185\" y=\"145\">D4</text>\n <line x1=\"110\" y1=\"95\" x2=\"140\" y2=\"95\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"180\" y1=\"95\" x2=\"215\" y2=\"95\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"110\" y1=\"165\" x2=\"140\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"180\" y1=\"165\" x2=\"215\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"160\" y1=\"80\" x2=\"160\" y2=\"60\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"160\" y1=\"130\" x2=\"160\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <!-- output rails -->\n <line x1=\"160\" y1=\"60\" x2=\"330\" y2=\"60\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"215\" y1=\"95\" x2=\"300\" y2=\"95\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"215\" y1=\"165\" x2=\"300\" y2=\"165\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"300\" y1=\"95\" x2=\"300\" y2=\"60\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"300\" y1=\"165\" x2=\"300\" y2=\"190\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"330\" y1=\"60\" x2=\"330\" y2=\"190\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"300\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#333\" stroke-width=\"2\"/>\n <!-- load -->\n <rect x=\"318\" y=\"105\" width=\"24\" height=\"40\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n <text x=\"348\" y=\"130\">$R_L$</text>\n <line x1=\"330\" y1=\"60\" x2=\"330\" y2=\"105\" stroke=\"#333\" stroke-width=\"2\"/>\n <line x1=\"330\" y1=\"145\" x2=\"330\" y2=\"190\" stroke=\"#333\" stroke-width=\"2\"/>\n <text x=\"230\" y=\"235\">Full-wave bridge rectifier</text>\n</svg>"
+  },
+  {
+   "id": "phy-2025jan-15",
+   "year": 2025,
+   "qno": "15",
+   "marks": 5,
+   "type": "LA",
+   "chapter": "Atoms",
+   "topic": "Bohr Model of the Hydrogen Atom",
+   "question": "Using the Bohr's hypothesis derive the de-Broglie wave length of the electrons of a hydrogen atom. Derive the expression for the energy of an orbital electron of hydrogen using Bohr's principle.",
+   "options": [],
+   "correctOption": null,
+   "answer": "**1. de Broglie wavelength of the orbiting electron**\n\nBohr's quantisation condition is\n\n$$mvr=\\frac{nh}{2\\pi}\\ \\Rightarrow\\ 2\\pi r=n\\frac{h}{mv}=n\\lambda$$\n\nbecause $\\lambda=h/mv$ by de Broglie. Hence the circumference of the permitted orbit contains a whole number of de Broglie wavelengths — the electron forms a **standing wave** round the nucleus.\n\nSince $\\lambda=h/p$ and, for the $n$-th orbit, $p=mv_n$, using $v_n=\\dfrac{e^2}{2\\varepsilon_0 nh}$ (from $\\frac{mv^2}{r}=\\frac{e^2}{4\\pi\\varepsilon_0r^2}$ and the quantisation condition):\n\n$$\\lambda_n=\\frac{h}{mv_n}=\\frac{2\\varepsilon_0 n h^{2}}{m e^{2}}$$\n\nFor the ground state ($n=1$) this gives $\\lambda_1\\approx3.32\\times10^{-10}$ m $=3.32$ Å, which agrees with $2\\pi r_1$ for $r_1=0.53$ Å.\n\n**2. Radii of the orbits**\n\nEquating the Coulomb force to the centripetal force,\n\n$$\\frac{mv^2}{r}=\\frac{1}{4\\pi\\varepsilon_0}\\frac{e^2}{r^2}\\ \\Rightarrow\\ mv^2=\\frac{e^2}{4\\pi\\varepsilon_0 r}\\tag{i}$$\n\nFrom $mvr=nh/2\\pi$, $v=\\dfrac{nh}{2\\pi mr}$. Substituting in (i):\n\n$$\\frac{m n^2h^2}{4\\pi^2m^2r^2}=\\frac{e^2}{4\\pi\\varepsilon_0 r}\\ \\Rightarrow\\ r_n=\\frac{\\varepsilon_0 n^2h^2}{\\pi m e^2}$$\n\nso $r_n\\propto n^2$ and $r_1=0.529$ Å.\n\n**3. Energy of the orbital electron**\n\n$$K=\\tfrac12mv^2=\\frac{e^2}{8\\pi\\varepsilon_0 r}\\quad\\text{(from (i))}$$\n\n$$U=-\\frac{e^2}{4\\pi\\varepsilon_0 r}$$\n\n$$E_n=K+U=-\\frac{e^2}{8\\pi\\varepsilon_0 r_n}$$\n\nInserting $r_n$:\n\n$$E_n=-\\frac{me^4}{8\\varepsilon_0^{2}n^{2}h^{2}}=-\\frac{13.6}{n^{2}}\\ \\text{eV}$$\n\nSo the total energy is negative (bound state), varies as $1/n^{2}$, and is $\\,-13.6$ eV for $n=1$.\n\n**4. Spectral lines**\n\nWith $h\\nu=E_2-E_1$,\n\n$$\\frac{1}{\\lambda}=R\\left(\\frac{1}{n_1^{2}}-\\frac{1}{n_2^{2}}\\right),\\qquad R=\\frac{me^4}{8\\varepsilon_0^{2}h^{3}c}$$\n\nwhich reproduces the observed hydrogen spectrum — the strongest evidence for the model.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "phy-2025jan-16",
+   "year": 2025,
+   "qno": "16",
+   "marks": 5,
+   "type": "LA",
+   "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+   "topic": "p-n Junction Diode",
+   "question": "Write distinguishing features between p-type and n-type semi-conductors on the basis of energy band diagrams. Draw V-I characteristics of a p-n junction diode.",
+   "options": [],
+   "correctOption": null,
+   "answer": "**p-type and n-type semiconductors — energy-band picture**\n\n| Feature | p-type | n-type |\n|---|---|---|\n| Dopant | trivalent (B, Al, In, Ga) | pentavalent (P, As, Sb, Bi) |\n| Impurity level | **acceptor** level just above the valence band ($\\sim0.01$–$0.05$ eV) | **donor** level just below the conduction band ($\\sim0.01$–$0.05$ eV) |\n| Majority carriers | holes in the valence band | electrons in the conduction band |\n| Minority carriers | electrons | holes |\n| Fermi level | lies close to the valence band | lies close to the conduction band |\n| Conductivity | due mainly to holes ($\\mu_h<\\mu_e$, so lower for the same doping) | due mainly to electrons (higher conductivity) |\n| Charge neutrality | crystal as a whole neutral; immobile acceptor ions give negative fixed charge | neutral; immobile donor ions give positive fixed charge |\n\nIn both cases the forbidden gap $E_g$ is unchanged by doping ($\\approx1.1$ eV for Si); doping only shifts the Fermi level and multiplies the carrier concentration, so both remain **extrinsic** conductors.\n\n**V-I characteristics of a p-n junction diode**\n\n![V-I characteristic](vi)\n\n- **Forward bias** ($p$ to $+$, $n$ to $-$): current is almost zero until the applied voltage exceeds the **knee (cut-in) voltage** — about $0.7$ V for Si, $0.3$ V for Ge. Beyond it the current rises very steeply (exponentially) and is limited only by the external resistance. The barrier width shrinks.\n- **Reverse bias** ($p$ to $-$, $n$ to $+$): only a tiny **reverse saturation current** (of the order of $\\mu$A, carried by minority carriers) flows; the depletion layer widens and the diode behaves as a very high resistance. If the reverse voltage is raised beyond the **breakdown voltage**, the current increases abruptly (avalanche/Zener breakdown) and the diode may be damaged.\n\nThus the diode conducts easily in one direction only — it acts as a one-way valve, which is the basis of rectification.",
+   "diagramSvg": "\n<svg viewBox=\"0 0 420 260\" xmlns=\"http://www.w3.org/2000/svg\" font-size=\"11\">\n <rect width=\"420\" height=\"260\" fill=\"#fff\"/>\n <line x1=\"60\" y1=\"200\" x2=\"370\" y2=\"200\" stroke=\"#333\" stroke-width=\"1.5\"/>\n <line x1=\"200\" y1=\"30\" x2=\"200\" y2=\"230\" stroke=\"#333\" stroke-width=\"1.5\"/>\n <text x=\"355\" y=\"218\">V</text><text x=\"205\" y=\"40\">I</text>\n <text x=\"150\" y=\"218\">reverse</text><text x=\"230\" y=\"218\">forward</text>\n <!-- forward branch -->\n <path d=\"M200 197 C 250 195, 300 150, 355 45\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2\"/>\n <path d=\"M200 60 C 215 60, 225 62, 232 72\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2\"/>\n <text x=\"300\" y=\"120\" fill=\"#c0392b\">forward bias</text>\n <!-- reverse branch -->\n <path d=\"M200 203 C 160 205, 120 208, 70 208\" fill=\"none\" stroke=\"#2c3e50\" stroke-width=\"2\"/>\n <text x=\"80\" y=\"180\" fill=\"#2c3e50\">reverse bias</text>\n <text x=\"205\" y=\"75\">knee</text>\n <line x1=\"232\" y1=\"72\" x2=\"232\" y2=\"200\" stroke=\"#888\" stroke-dasharray=\"3 3\"/>\n <text x=\"145\" y=\"240\">(small reverse saturation current)</text>\n</svg>"
+  }
+ ]
+}
