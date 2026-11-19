@@ -136,15 +136,17 @@ def main():
     kcss = open(os.path.join(ASSETS, "katex.min.css"), encoding="utf-8").read()
     kjs = open(os.path.join(ASSETS, "katex.min.js"), encoding="utf-8").read()
     ajs = open(os.path.join(ASSETS, "auto-render.min.js"), encoding="utf-8").read()
+    mjs = open(os.path.join(ASSETS, "mhchem.min.js"), encoding="utf-8").read()
 
     css = strip_css_font_urls(kcss) + "\n" + fonts_css()
 
     out = tpl.replace("/*__KATEX_CSS__*/", css)
     out = out.replace("/*__KATEX_JS__*/", kjs)
     out = out.replace("/*__AUTORENDER_JS__*/", ajs)
+    out = out.replace("/*__MHCHEM_JS__*/", mjs)
     out = out.replace("/*__DB_JSON__*/", payload)
 
-    for marker in ("__KATEX_CSS__", "__KATEX_JS__", "__AUTORENDER_JS__", "__DB_JSON__"):
+    for marker in ("__KATEX_CSS__", "__KATEX_JS__", "__AUTORENDER_JS__", "__MHCHEM_JS__", "__DB_JSON__"):
         if marker in out:
             raise SystemExit("FAIL: placeholder %s not replaced" % marker)
 
