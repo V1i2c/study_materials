@@ -504,7 +504,7 @@
    "question": "Calculate the half-life period of a first order reaction whose rate constant is 200 s$^{-1}$.",
    "options": [],
    "correctOption": null,
-   "answer": "For a first-order reaction,\\n\\n$$t_{1/2}=\\frac{0.693}{k}$$\\n\\nWith $k=200\\ \\text{s}^{-1}$:\\n\\n$$t_{1/2}=\\frac{0.693}{200}=3.47\\times10^{-3}\\ \\text{s}$$\\n\\n**The half-life is about 3.5 x 10$^{-3}$ s (3.47 ms).** The reaction is extremely fast, and $t_{1/2}$ is independent of the initial concentration - the defining property of first-order kinetics.",
+   "answer": "For a first-order reaction,\n\n$$t_{1/2}=\\frac{0.693}{k}$$\n\nWith $k=200\\ \\text{s}^{-1}$:\n\n$$t_{1/2}=\\frac{0.693}{200}=3.47\\times10^{-3}\\ \\text{s}$$\n\n**The half-life is about 3.5 x 10$^{-3}$ s (3.47 ms).** The reaction is extremely fast, and $t_{1/2}$ is independent of the initial concentration - the defining property of first-order kinetics.",
    "diagramSvg": ""
   },
   {

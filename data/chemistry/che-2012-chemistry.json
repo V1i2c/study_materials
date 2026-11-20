@@ -115,7 +115,7 @@
     "Ethanol and Propanone"
    ],
    "correctOption": 1,
-   "answer": "**(B)** Two molecules of propanone\n\nAldol condensation needs a carbonyl compound with at least one $\\alpha$-hydrogen. Dilute alkali removes an $\\alpha$-H from one molecule, the resulting carbanion attacks the carbonyl carbon of a second molecule, and a $\\beta$-hydroxy carbonyl (an \"aldol\") is formed; with propanone the product is diacetone alcohol, CH$_3$COCH$_2$C(OH)(CH$_3$)$_2$:\n\n$$\\underset{\text{diacetone alcohol}}{\\ce{(CH3)2C(OH)CH2COCH3}}$$\n\nEthanol contains no carbonyl group at all and cannot undergo aldol condensation.\n\n*Note on the printed key:* the paper marks (a) (ethanol), which is chemically impossible; the intended answer is the ketone, option (B).",
+   "answer": "**(B)** Two molecules of propanone\n\nAldol condensation needs a carbonyl compound with at least one $\\alpha$-hydrogen. Dilute alkali removes an $\\alpha$-H from one molecule, the resulting carbanion attacks the carbonyl carbon of a second molecule, and a $\\beta$-hydroxy carbonyl (an \"aldol\") is formed; with propanone the product is diacetone alcohol, CH$_3$COCH$_2$C(OH)(CH$_3$)$_2$:\n\n$$\\ce{(CH3)2C(OH)CH2COCH3}$$\n\nEthanol contains no carbonyl group at all and cannot undergo aldol condensation.\n\n*Note on the printed key:* the paper marks (a) (ethanol), which is chemically impossible; the intended answer is the ketone, option (B).",
    "diagramSvg": ""
   },
   {
