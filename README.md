@@ -84,3 +84,24 @@ study_materials/
 - `2025_physics_9865.pdf`
 - `2025_physics_jan-2025.pdf`
 - `2026_physics_1846.pdf`
+
+---
+
+## Solved Question Bank (`data/` + `jac_pyqs.html`)
+
+Every paper in the catalog has been transcribed, question by question, into
+`data/<subject>/<key>.json`, with the printed options, the correct option and a
+**written model answer** for each question (MCQ answers explain *why*).
+
+- **56 papers · 2,187 questions**, covering Physics (530), Chemistry (510),
+  Mathematics (506) and English Core (641).
+- `manifest.json` lists all 59 PDFs with a per-paper status
+  (`done`, `excluded-practical`, `excluded-elective`).
+- `jac_pyqs.html` is the generated, fully offline single-file site: open it in any
+  browser to browse by subject → chapter → paper, or to search.
+- `qa_check.py` validates the JSON (structure, option counts, chapter labels,
+  answer format, control characters); `python3 qa_check.py --all` checks every paper,
+  `python3 qa_check.py --full jac_pyqs.html` checks the built site against `data/`.
+- `build.py` regenerates `jac_pyqs.html` from `data/` and `template.html`.
+- `_work/` holds the one-off generator script for each paper, so any paper can be
+  corrected at source and rebuilt rather than hand-edited.
