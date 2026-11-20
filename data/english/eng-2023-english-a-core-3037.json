@@ -1,0 +1,936 @@
+{
+ "key": "eng-2023-english-a-core-3037",
+ "subject": "English Core",
+ "year": 2023,
+ "expected_total_questions": 52,
+ "questions": [
+  {
+   "id": "eng-2023-a1",
+   "year": 2023,
+   "qno": "1 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Creative Writing Skills",
+   "topic": "Notice Writing",
+   "question": "Notices in schools and colleges contain certain announcement for",
+   "options": [
+    "Principal",
+    "Headmaster",
+    "Students",
+    "Peon"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** Students\n\nA notice on a school or college notice board is addressed to the people who are expected to read it and act on it — the **students**. The Principal or the Headmaster is the *issuer* of such a notice, not its audience, and a peon is not addressed by a notice meant for the whole institution.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a2",
+   "year": 2023,
+   "qno": "2 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Creative Writing Skills",
+   "topic": "Notice Writing",
+   "question": "Notice issued by government generally appears in",
+   "options": [
+    "Newspapers",
+    "Books",
+    "School notice boards",
+    "Court notice boards"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Newspapers\n\nA government notice is meant for the general public, and the only medium that reaches it is the **newspaper** (today also the official gazette, which is published like one). Books cannot carry current notices, and school or court notice boards reach only a small, particular group.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a3",
+   "year": 2023,
+   "qno": "3 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Creative Writing Skills",
+   "topic": "Letter Writing (Letter to the Editor)",
+   "question": "Letters to the Editor are written for",
+   "options": [
+    "Newspaper",
+    "School",
+    "College",
+    "Club"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Newspaper\n\nA letter to the editor is addressed to the editor of a **newspaper** so that it may be published in its columns and reach the authorities and the public. School, college and club have their own notice boards and magazines, not an \"editor\" in this sense.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a4",
+   "year": 2023,
+   "qno": "4 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Creative Writing Skills",
+   "topic": "Letter Writing (Formal)",
+   "question": "A formal letter starts with",
+   "options": [
+    "Date",
+    "Sender's address",
+    "Receiver's address",
+    "Subject"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** Sender's address\n\nA formal letter opens with the **sender's own address** (with the date written below it), then the receiver's address, the subject line, the salutation and the body. The sender must be identified before the person addressed.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a5",
+   "year": 2023,
+   "qno": "5 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Creative Writing Skills",
+   "topic": "Report Writing",
+   "question": "We should not include .................... in report writing.",
+   "options": [
+    "Personal comments",
+    "Data collected",
+    "Information by witness",
+    "None of these"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Personal comments\n\nA report is an objective account of an event: it gives the **facts, the data collected and the statements of witnesses**, but not the reporter's opinions or feelings. Personal comment belongs to an article or a letter, and it destroys the credibility of a report.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a6",
+   "year": 2023,
+   "qno": "6 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Creative Writing Skills",
+   "topic": "Article Writing",
+   "question": "Which one is a component of article writing?",
+   "options": [
+    "Greeting the audience",
+    "Salutation",
+    "Heading/title",
+    "Thanking the audience"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** Heading/title\n\nAn article is a piece of writing for a magazine or newspaper, so it has a **heading or title** (usually with the writer's name below it) and a series of paragraphs. Greeting and thanking an audience belong to a speech, and a salutation belongs to a letter.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a7",
+   "year": 2023,
+   "qno": "7 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Keeping Quiet",
+   "topic": "Extract Comprehension",
+   "question": "Who is the poet of the given extract (poem)? 'Fishermen in the cold sea / would not harm whales / and the man gathering salt / would look at his hurt hands.'",
+   "options": [
+    "Pablo Neruda",
+    "Stephen Spender",
+    "Kamala Das",
+    "Robert Frost"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Pablo Neruda\n\nThe extract is from **Keeping Quiet** by the Chilean poet **Pablo Neruda**. The other three are the poets of \"An Elementary School Classroom in a Slum\" (Spender), \"My Mother at Sixty-Six\" (Kamala Das) and \"A Roadside Stand\" (Frost).",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a8",
+   "year": 2023,
+   "qno": "8 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Keeping Quiet",
+   "topic": "Extract Comprehension",
+   "question": "What does the poet expect the fishermen to do?",
+   "options": [
+    "Not to harm the whales",
+    "Not to go in the sea",
+    "To be still",
+    "To catch small fishes"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Not to harm the whales\n\nIn the planned moment of silence \"Fishermen in the cold sea / would not harm whales\". The poet does not ask them to give up fishing or to sit idle for ever — he asks only that, for once, they see what their work is doing.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a9",
+   "year": 2023,
+   "qno": "9 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Keeping Quiet",
+   "topic": "Extract Comprehension",
+   "question": "The man gathering salt would look at his",
+   "options": [
+    "Hurt legs",
+    "Hurt hands",
+    "Beautiful hands",
+    "None of these"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** Hurt hands\n\n\"and the man gathering salt / would look at his **hurt hands**\". The brine has cracked and burned his hands, but in the day's hurry he never notices them; the silence would make him see his own wounds.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a10",
+   "year": 2023,
+   "qno": "10 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "My Mother at Sixty-Six",
+   "topic": "Extract Comprehension",
+   "question": "The person in the car, beside the poetess, was",
+   "options": [
+    "her aunt",
+    "her niece",
+    "her uncle",
+    "her mother"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** her mother\n\nThe poem opens \"Driving from my parent's / home to Cochin last Friday / morning, I saw my mother, beside me\". The old woman dozing with \"her face ashen like that of a corpse\" is the poet's mother.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a11",
+   "year": 2023,
+   "qno": "11 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Deleted / Old Syllabus",
+   "topic": "Extract Comprehension",
+   "question": "What kind of look do the faces and hair of the children give?",
+   "options": [
+    "Rich and beautiful faces",
+    "Bright, neat faces",
+    "Healthy appearances",
+    "Pale faces, scattered and undone hair"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Pale faces, scattered and undone hair\n\nSpender's lines — \"these children's faces / Like rootless weeds, their hair torn round their pallor\" — give exactly this picture: **pale faces** and **hair torn, scattered and undone**. The other options describe the well-fed children of a different world, and that contrast is the poem's point.\n\n*(The chapter is outside the current syllabus but the question survives in this paper.)*",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a12",
+   "year": 2023,
+   "qno": "12 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "A Thing of Beauty",
+   "topic": "Extract Comprehension",
+   "question": "What makes for itself a cooling covert against the hot season?",
+   "options": [
+    "The sheep",
+    "The daffodils",
+    "The musk roses",
+    "The clear rills"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** The musk roses\n\nIn \"A Thing of Beauty\" Keats describes the \"mid forest brake, / Rich with a sprinkling of fair **musk-rose** blooms\" — the thicket of musk roses makes for itself a **cooling covert**, a shady shelter, against the hot season. The daffodils and the clear rills are also listed in the poem, but each for a different comfort: the daffodils for the eye and the rills for \"the hot season\" of thirst.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a13",
+   "year": 2023,
+   "qno": "13 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "A Roadside Stand",
+   "topic": "Extract Comprehension",
+   "question": "Why was roadside stand built?",
+   "options": [
+    "So that people can wait there",
+    "To make it a bus stop",
+    "To earn money",
+    "To help the travellers"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** To earn money\n\nThe villagers built the stand to **sell their produce to the passing city cars** — \"we ... ask for some city money to feel in hand\". It is not a bus shelter or a place of rest; it is a small business, and its failure is the poem's subject.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a14",
+   "year": 2023,
+   "qno": "14 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Aunt Jennifer's Tigers",
+   "topic": "Extract Comprehension",
+   "question": "What is Aunt Jennifer doing with the wool?",
+   "options": [
+    "She is embroidering a wall panel",
+    "She is knitting a scarf",
+    "She is making a ball of wool",
+    "She is knitting a sweater"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** She is embroidering a wall panel\n\nAunt Jennifer's fingers \"fluttering through her wool\" work a **panel** on which the tigers \"prance across the screen\" — an embroidery, done with an ivory needle, not knitting. The distinction matters because embroidery is decorative, repetitive work done to order in a house, exactly the life the poem describes.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a15",
+   "year": 2023,
+   "qno": "15 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Last Lesson",
+   "topic": "The Last Lesson",
+   "question": "For how many years did M. Hamel serve the school?",
+   "options": [
+    "20 years",
+    "35 years",
+    "30 years",
+    "40 years"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** 40 years\n\nM. Hamel had taught in the same school at Alsace for **forty years**: \"he had been there for forty years\". The village elders sit at the back of the class on the last day to thank him for those forty years of service.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a16",
+   "year": 2023,
+   "qno": "16 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Last Lesson",
+   "topic": "Theme of the Lesson",
+   "question": "What did Hamel say about French language in 'The Last Lesson'?",
+   "options": [
+    "Most beautiful language",
+    "Clearest language",
+    "Logical language",
+    "All of these"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Most beautiful language\n\nM. Hamel says that French is \"the most beautiful language in the world — the clearest, the most logical\". He calls it the key to the people's freedom: \"we must guard it among us and never forget it, because when a people are enslaved, as long as they hold fast to their language it is as if they had the key to their prison\".",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a17",
+   "year": 2023,
+   "qno": "17 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Lost Spring",
+   "topic": "Recall of Detail",
+   "question": "Where has Saheb and his family come from?",
+   "options": [
+    "Dhaka",
+    "Delhi",
+    "Lahore",
+    "Nepal"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Dhaka\n\nSaheb's family came from **Dhaka** in Bangladesh — \"in the green fields of Dhaka\" his father had a home, and the family left it long ago. In Seemapuri they live without identity or permits, and Saheb hunts for \"gold\" in the garbage dumps of Delhi.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a18",
+   "year": 2023,
+   "qno": "18 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Lost Spring",
+   "topic": "Recall of Detail",
+   "question": "Which city is famous for glass bangles?",
+   "options": [
+    "Patna",
+    "Jaipur",
+    "Firozabad",
+    "Ranchi"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** Firozabad\n\n**Firozabad** is the centre of India's glass bangle industry, and the chapter describes its \"stinking lanes choked with garbage\", its dingy workshops and the children who work at the furnaces and lose their eyesight before they become adults.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a19",
+   "year": 2023,
+   "qno": "19 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Lost Spring",
+   "topic": "Theme of the Lesson",
+   "question": "What does Mukesh want to become?",
+   "options": [
+    "Doctor",
+    "Actor",
+    "Teacher",
+    "Motor mechanic"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Motor mechanic\n\nMukesh says, \"I will be a **motor mechanic**\" — he will go to a garage and learn the trade. His ambition is modest and yet, in Firozabad, extraordinary: he wants to be \"his own master\" instead of following his father to the bangle furnace.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a20",
+   "year": 2023,
+   "qno": "20 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Lost Spring",
+   "topic": "Theme of the Lesson",
+   "question": "According to the author what was garbage for the children?",
+   "options": [
+    "Means of entertainment",
+    "Means of timepass",
+    "Means of playing",
+    "A wonder"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** A wonder\n\nFor the children of Seemapuri garbage is \"wrapped in **wonder**\": they may find a rupee, a ten-rupee note or even a silver coin in it. For the elders it is a means of survival; for the children it is a daily hope.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a21",
+   "year": 2023,
+   "qno": "21 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Deep Water",
+   "topic": "Recall of Detail",
+   "question": "For how many years had the author taught in high school in Yakima?",
+   "options": [
+    "2 years",
+    "4 years",
+    "3 years",
+    "5 years"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** 2 years\n\nIn \"Deep Water\" William Douglas mentions that he had **taught for two years** in a high school in Yakima, which is why the Y.M.C.A. pool there and the memory of his childhood accident came back to him when he returned to the town.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a22",
+   "year": 2023,
+   "qno": "22 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Rattrap",
+   "topic": "Theme of the Lesson",
+   "question": "In the peddler's view, what does the world look like?",
+   "options": [
+    "A Rat",
+    "A Jungle",
+    "A Jigsaw",
+    "A Rattrap"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** A Rattrap\n\nThe peddler thinks that the whole world is a **rattrap**: its riches and joys, shelter and food, heat and clothing are only baits laid for people, and whoever stretches out a hand for the cheese is caught. Edla's kindness is the one thing that does not fit his theory.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a23",
+   "year": 2023,
+   "qno": "23 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Indigo",
+   "topic": "Recall of Detail",
+   "question": "How many delegates participated in the December 1916 Annual Convention of the Indian National Congress held at Lucknow?",
+   "options": [
+    "2,101 delegates",
+    "2,301 delegates",
+    "2,401 delegates",
+    "2,501 delegates"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** 2,301 delegates\n\nIn \"Indigo\" Gandhi records that the December 1916 session of the Congress at Lucknow had **2,301 delegates** and that \"the peasants from Champaran were not there\". It was at this session that Rajkumar Shukla approached him.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a24",
+   "year": 2023,
+   "qno": "24 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Rattrap",
+   "topic": "Recall of Detail",
+   "question": "Which game did the peddler and the old man play?",
+   "options": [
+    "Chess",
+    "Mjolis",
+    "Ludo",
+    "Carom"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** Mjolis\n\nThe peddler and the old crofter play **Mjolis**, a Swedish card game, through the evening before the peddler steals the thirty kronor. The game is the picture of the hospitality he is about to betray.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a25",
+   "year": 2023,
+   "qno": "25 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Poets and Pancakes",
+   "topic": "Recall of Detail",
+   "question": "Pancake was the brand name of the",
+   "options": [
+    "Cake",
+    "Make-up material",
+    "Crockery",
+    "Baking powder"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** Make-up material\n\nIn \"Poets and Pancakes\" **Pancake** was the brand name of the **make-up material** used at the Gemini Studios — a thick, greasy paste that the actors and the \"office boy\" had to wear, and the chapter opens with the author's memory of its smell and its tins.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a26",
+   "year": 2023,
+   "qno": "26 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Interview",
+   "topic": "Recall of Detail",
+   "question": "Who has written the novel, The Name of The Rose?",
+   "options": [
+    "Christopher",
+    "Mukund",
+    "Umberto Eco",
+    "Lewis Carroll"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** Umberto Eco\n\n*The Name of the Rose* is the famous novel of the Italian writer and semiotician **Umberto Eco**, who is one of the celebrities interviewed in Christopher Silvester's chapter \"The Interview\" — Eco tells his interviewer that he is not fond of being interviewed and explains why.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a27",
+   "year": 2023,
+   "qno": "27 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Going Places",
+   "topic": "Recall of Detail",
+   "question": "Which game are Sophie and her family fans of?",
+   "options": [
+    "Cricket",
+    "Badminton",
+    "Volleyball",
+    "Football"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Football\n\nSophie's family follows **football**: her father supports Manchester United, her brother Geoff plays and watches the game, and the whole story of her fantasy turns on the footballer **Danny Casey**. Sophie and Jansie discuss his goals and his Irish origins.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a28",
+   "year": 2023,
+   "qno": "28 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Going Places",
+   "topic": "Recall of Detail",
+   "question": "Which country did Danny play for?",
+   "options": [
+    "Netherland",
+    "New Zealand",
+    "Switzerland",
+    "Ireland"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Ireland\n\nDanny Casey is described as a young footballer from **Ireland**, playing for the English club Manchester United. Sophie invents a meeting with him by the canal and tells Geoff that Danny promised to come again next Saturday.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a29",
+   "year": 2023,
+   "qno": "29 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Tiger King",
+   "topic": "Recall of Detail",
+   "question": "Who is the Tiger King?",
+   "options": [
+    "The Maharaja of Pratibandapuram",
+    "The Maharaja of Shantipuram",
+    "The Maharaja of Shaktipuram",
+    "None of these"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** The Maharaja of Pratibandapuram\n\nThe Tiger King is **Sir Jilani Jung Jung Bahadur, the Maharaja of Pratibandapuram**, whose many titles were shortened by the people to the Tiger King. He was born in the hour of the Bull, and the astrologer predicted that his death would come from a tiger.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a30",
+   "year": 2023,
+   "qno": "30 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Tiger King",
+   "topic": "Recall of Detail",
+   "question": "In which hour was the prince of 'The Tiger King' born?",
+   "options": [
+    "In the hour of the Bull",
+    "In the hour of the Tiger",
+    "In the hour of the Lion",
+    "In the hour of the Horse"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** In the hour of the Bull\n\nThe royal infant was born **in the hour of the Bull** — and since the Bull and the Tiger are enemies, the astrologer concluded that the prince's death would \"come from the Tiger\". That single line sets in motion the whole campaign of tiger hunting.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a31",
+   "year": 2023,
+   "qno": "31 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Third Level",
+   "topic": "Recall of Detail",
+   "question": "Who had sent the 'First Day Cover'?",
+   "options": [
+    "Charley's father",
+    "Charley's uncle",
+    "Sam's father",
+    "Sam"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Sam\n\nThe first-day cover in Charley's stamp collection was sent by **Sam**, his psychiatrist friend. It is postmarked Galesburg, 18 July 1894, and inside it is a letter from Sam saying that he has found the third level and is living there.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a32",
+   "year": 2023,
+   "qno": "32 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Third Level",
+   "topic": "Recall of Detail",
+   "question": "Who was Sam in the Third Level?",
+   "options": [
+    "A Doctor",
+    "A Psychiatrist and a friend of Charley",
+    "A Teacher",
+    "None of these"
+   ],
+   "correctOption": 1,
+   "answer": "**(B)** A Psychiatrist and a friend of Charley\n\nSam was Charley's **psychiatrist and friend**. It was Sam who first explained Charley's discovery of the third level as \"a waking-dream wish to escape\", and Sam himself later disappears into the past, from where he posts the first-day cover.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a33",
+   "year": 2023,
+   "qno": "33 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Journey to the End of the Earth",
+   "topic": "Recall of Detail",
+   "question": "How many time zones did Tishani Doshi cross?",
+   "options": [
+    "Two",
+    "Four",
+    "Eight",
+    "Nine"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Nine\n\nIn \"Journey to the End of the Earth\" Tishani Doshi writes that she travelled from Chennai to Antarctica and crossed **nine time zones** on the way — a detail that measures the distance between the world of men and the \"end of the earth\".",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a34",
+   "year": 2023,
+   "qno": "34 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Journey to the End of the Earth",
+   "topic": "Recall of Detail",
+   "question": "Which programme was headed by Canadian Geoff Green?",
+   "options": [
+    "Students on ice",
+    "Students on sea",
+    "Celebrities on ice",
+    "Celebrities on sea"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Students on ice\n\n**Geoff Green**, a Canadian, is the founder and director of the \"**Students on Ice**\" expedition, which takes high-school students to the ends of the earth to give them a life-changing education in the fragility of the planet.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a35",
+   "year": 2023,
+   "qno": "35 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "The Enemy",
+   "topic": "Recall of Detail",
+   "question": "Who was Dr. Sadao?",
+   "options": [
+    "A Japanese doctor",
+    "An American doctor",
+    "A German doctor",
+    "An Indian doctor"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** A Japanese doctor\n\nDr. Sadao Hoki is a **Japanese** surgeon and scientist, the son of a respected Japanese father, trained in America and living on the Japanese coast during the Second World War. The whole story turns on his being asked, as a Japanese, to give up an American prisoner and, as a doctor, to save him.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a36",
+   "year": 2023,
+   "qno": "36 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Deleted / Old Syllabus",
+   "topic": "Recall of Detail",
+   "question": "To whom did Roger Skunk go with his problem?",
+   "options": [
+    "Wise old owl",
+    "Wizard",
+    "Roger Squirrel",
+    "Roger Chipmunk"
+   ],
+   "correctOption": 0,
+   "answer": "**(A)** Wise old owl\n\nIn Jack's story Roger Skunk first goes to the **wise old owl**, who tells him to go to the wizard. Every one of Jack's tales follows the same route — small creature, owl, wizard — and the owl is the one who says, \"You must go to the wizard and ask him to help you\".\n\n*(The chapter is outside the current syllabus but it appears in this paper.)*",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a37",
+   "year": 2023,
+   "qno": "37 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Deleted / Old Syllabus",
+   "topic": "Recall of Detail",
+   "question": "Where did Roger Skunk find the rest 3 pennies?",
+   "options": [
+    "From a magic pond",
+    "From a magic river",
+    "From a magic tree",
+    "From a magic well"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** From a magic well\n\nRoger Skunk had four pennies and needed seven; he found the **rest three pennies from a magic well** (in the versions of the tale, he finds them in the magic well he passes on his way). With the seven pennies he pays the wizard, who changes his smell to that of a rose.\n\n*(The chapter is outside the current syllabus but it appears in this paper.)*",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a38",
+   "year": 2023,
+   "qno": "38 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "On the Face of It",
+   "topic": "Recall of Detail",
+   "question": "How old is Derry?",
+   "options": [
+    "11 years",
+    "12 years",
+    "13 years",
+    "14 years"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** 14 years\n\nDerry tells Mr. Lamb that he is **fourteen**. The exact age matters in the play: he is old enough to see how people look at his burnt face, and young enough for that to decide how he lives.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a39",
+   "year": 2023,
+   "qno": "39 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "On the Face of It",
+   "topic": "Recall of Detail",
+   "question": "What did Mr. Lamb make of apples?",
+   "options": [
+    "Pickles",
+    "Jam",
+    "Jelly",
+    "Roasted apples"
+   ],
+   "correctOption": 2,
+   "answer": "**(C)** Jelly\n\nMr. Lamb makes **jelly** from the apples in his garden, and offers some to Derry when he climbs over the wall. The jelly is part of the play's argument: a man with one leg and no company has still made something sweet out of what his garden gives him.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-a40",
+   "year": 2023,
+   "qno": "40 (MCQ)",
+   "marks": 1,
+   "type": "MCQ",
+   "chapter": "Memories of Childhood",
+   "topic": "Recall of Detail",
+   "question": "Who was Annan?",
+   "options": [
+    "Bama's friend",
+    "Bama's father",
+    "Bama's uncle",
+    "Bama's elder brother"
+   ],
+   "correctOption": 3,
+   "answer": "**(D)** Bama's elder brother\n\n**Annan** is Bama's **elder brother**. He explains to her the meaning of the packet carried by its string, tells her about untouchability and the humiliation of their community, and says that education is the only way to break free of it.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-1",
+   "year": 2023,
+   "qno": "1",
+   "marks": 10,
+   "type": "SA",
+   "chapter": "Reading Comprehension",
+   "topic": "Comprehension of an Informative Passage",
+   "question": "Read the passage on birds and answer any five of the following in not more than 30 words each:\n(a) What kind of feet and claws do the birds have?\n(b) How does a bird move forward and upwards?\n(c) What is said about the largest bird?\n(d) What is rare about the way a humming bird flies?\n(e) How is the body of a bird designed?\n(f) How can the large birds like eagles identify their prey from a long distance?\n(g) Find the word/phrase in the passage which means the same as 'made'.",
+   "options": [],
+   "correctOption": null,
+   "answer": "### Question 1\n\n**Answer.** Birds have **various kinds of beaks, feet and claws according to their diet and way of life** — for example, the heron's long slender feet for wading and the eagle's strong claws for seizing prey.\n\n**The passage's own words.**\n\n> \"Birds have various kinds of beaks, feet and claws according to their diet and way of life.\"\n\n**In one line for the answer sheet.** Birds have different kinds of feet and claws suited to their food and habits — long and slender for wading birds like the heron, strong and curved for hunters like the eagle.\n\n### Question 2\n\n**Answer.** When a bird flaps its wings, **its feathers push the air back and downwards, so that the bird moves forward and up**. Together with the tail, the wings also help it to steer, brake and land.\n\n**The passage's own words.**\n\n> \"When a bird flaps its wings, it's feathers push the air back and downwards, so that the birds move forward and up.\"\n\n**For the answer sheet.** The downward-backward stroke of the wings against the air drives the bird forward and upward; the wings and tail together control steering, braking and landing.\n\n### Question 3\n\n**Answer.** The largest bird is the **ostrich**, which can grow up to **two and a half metres tall**. It **cannot fly but can run very fast**.\n\n**The passage's own words.**\n\n> \"The largest bird, the ostrich, which can grow up to two and half metres tall, cannot fly but can run very fast.\"\n\n**Point to note.** The ostrich is also one of the two birds named as wingless fliers — \"some, like the penguin and ostrich cannot fly\" — so its size and its speed are its substitutes for flight.\n\n### Question 4\n\n**Answer.** The **smallest bird is the humming bird**, which **hovers in midair and even flies backwards**, beating its wings at great speed.\n\n**The passage's own words.**\n\n> \"The smallest bird is the humming bird which hovers in midair and even flies backwards, beating its wings at great speed.\"\n\n**What is \"rare\".** Most birds can only move forward, and none but the humming bird can hover in one place and fly backwards: its wings beat in a figure of eight, which lets it keep its position in the air.\n\n### Question 5\n\n**Answer.** The body of a bird is designed to be **as light as possible** — it has **hollow bones** and a **streamlined body**, which help it in flying.\n\n**The passage's own words.**\n\n> \"The body of the birds are designed to be as light as possible, like hollow bones and a streamlined body, which help them in flying.\"\n\n**Why both details matter.** Hollow bones reduce weight without losing strength, and the streamlined shape cuts down air resistance; together they make flight possible for a warm-blooded animal.\n\n### Question 6\n\n**Answer.** Large birds like the eagle **kill the prey with their strong beak and claws**, and their **eyesight is very good**, which enables them to **see any small movement on the ground**; thus they can identify their prey from a long distance.\n\n**The passage's own words.**\n\n> \"Their eyesight is very good which enables them to see any small movement on the ground. Thus, they can identify their prey from a long distance.\"\n\n**For the answer sheet.** An eagle's keen eyesight catches the smallest movement far below, so it can pick out its prey from a great height.\n\n### Question 7\n\n**Answer.** **Designed** — as in \"the body of the birds are **designed** to be as light as possible\".\n\n**What to write in the paper.** \"Designed\" (the passage also uses \"made of horn\" for beaks, but the word that *means* \"made\" in the sense of constructed for a purpose is \"designed\"). Give the single word only.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-2",
+   "year": 2023,
+   "qno": "2",
+   "marks": 8,
+   "type": "SA",
+   "chapter": "Reading Comprehension",
+   "topic": "Note-Making and Summary",
+   "question": "Read the passage on anger and answer:\n(a) On the basis of your reading of the passage, make notes on it in points only, using abbreviations wherever necessary.\n(b) Write a summary of the passage in about 40-50 words.",
+   "options": [],
+   "correctOption": null,
+   "answer": "### Question 8\n\n**Answer.**\n\n**Title: Managing Anger**\n\n1. **Nature of anger**\n   1.1 normal & healthy emotion — if we know how to respond to it\n   1.2 uncontrolled anger harms us, directly or indirectly\n   1.3 anger = absence of peace with oneself, people or situations\n   1.4 expressed by being assertive or aggressive\n\n2. **Be the manager of your anger**\n   2.1 take a few moments to calm down before responding\n   2.2 five deep breaths, count to ten, drink water, change your place\n\n3. **Physical activity helps**\n   3.1 reduces stress\n   3.2 funny dances, clapping, thumping feet, a walk, funny faces at the mirror\n   3.3 helps us let go of anger & frustration\n\n4. **After your feelings are under control**\n   4.1 go through all aspects of the situation\n   4.2 see the same situation from different perspectives\n   4.3 equip yourself with a few solutions before the next occasion\n   4.4 avoid holding a grudge; learn when to seek help\n   4.5 realising your own shortcomings = strength of character\n\n5. **What we can control**\n   5.1 never circumstances, people or situations — they keep changing\n   5.2 only our response\n   5.3 increase capacity to tolerate, ability to understand, love for others\n\n**Key to abbreviations.** abil. – ability; phys. – physical; persp. – perspective; shortcom. – shortcomings; sit. – situation.\n\n### Question 9\n\n**Answer.** Anger is healthy only if we know how to respond to it; uncontrolled anger harms us directly or indirectly, for it is nothing but absence of peace with ourselves, people and situations. We must manage it by calming down before responding, getting physically active, seeing the situation from different perspectives and avoiding grudges — since we can control only our response, not circumstances.\n\n**Word count.** About 55 words. The passage's order is: what anger is, how it harms, how to calm it, how to see the situation, what we can control.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-10(a)",
+   "year": 2023,
+   "qno": "10(a)",
+   "marks": 3,
+   "type": "SA",
+   "chapter": "Creative Writing Skills",
+   "topic": "Notice Writing",
+   "question": "You are Narayan/Namrata, the Cultural Secretary of Marwari +2 High School, Ranchi. Write a suitable notice for your school notice board requesting names of the students for participation in a Cultural Programme to be organised by your school. (Answer in not more than 50 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.**\n\n**MARWARI +2 HIGH SCHOOL, RANCHI — NOTICE**\n\n*10 August 2023*\n\n**CULTURAL PROGRAMME**\n\nThe school is organising a cultural programme on **25 August 2023 at 11 a.m. in the school hall**. Students of classes IX to XII who wish to participate in dance, song, skit or recitation should give their names to the undersigned **by 18 August**.\n\n**Namrata**\nCultural Secretary\n\n**Format points.** The institution, the word NOTICE, the date, the event with **date, time and venue**, the items offered, the names required and the **deadline**, and the signature with the designation — within 50 words.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-10(b)",
+   "year": 2023,
+   "qno": "10(b)",
+   "marks": 3,
+   "type": "SA",
+   "chapter": "Creative Writing Skills",
+   "topic": "Notice Writing",
+   "question": "You are Sonam/Suman, a student of class 12. Yesterday, during lunch break you misplaced your notebook. You want to get it back. Write a notice for the school notice board. (Answer in not more than 50 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.**\n\n**NOTICE**\n\n*12 September 2023*\n\n**LOST NOTEBOOK**\n\nYesterday, during the lunch break, I misplaced my **notebook of English** somewhere in the school canteen or the corridor near the laboratory. It is a **brown register with my name, Suman, and Class XII-B written on the cover**.\n\nThe finder is requested to return it to the undersigned in Class XII-B or at the school office.\n\n**Suman**\nClass XII-B\n\n**Format points.** What was lost, **where and when**, identifying marks, what the finder should do, and the name and class — all within 50 words.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-11",
+   "year": 2023,
+   "qno": "11",
+   "marks": 5,
+   "type": "SA",
+   "chapter": "Creative Writing Skills",
+   "topic": "Report Writing",
+   "question": "World Environment Day was celebrated in your school on 5th June. Write a report to be published in your school magazine. You are Shyam/Shyamali of class XII. (Answer in not more than 100 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.**\n\n**WORLD ENVIRONMENT DAY CELEBRATED**\n\n*By Shyamali, Class XII*\n\n**Ranchi, 5 June 2023.** World Environment Day was celebrated in our school on 5th June with a **tree-plantation drive** and an inter-house poster competition.\n\nThe Principal planted a sapling of neem in the school courtyard and spoke about this year's theme, reminding us that \"the earth does not belong to us; we belong to the earth\". Members of the Eco Club distributed paper bags to the shopkeepers near the school gate to mark the day's pledge against single-use plastic. Students of class IX performed a street play on the pollution of local ponds, and the poster competition, on the theme \"Save Water\", was won by the house of Nilgiri.\n\nThe programme ended with an oath taken by the whole school to keep the campus and the neighbourhood clean.\n\n**Format points.** Headline, byline, place and date, the events in sequence, the speeches summarised and the results — within 100 words, in the past tense.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-12",
+   "year": 2023,
+   "qno": "12",
+   "marks": 5,
+   "type": "SA",
+   "chapter": "Creative Writing Skills",
+   "topic": "Letter Writing (Letter to the Editor)",
+   "question": "Write a letter to the Editor of *The Telegraph*, Ranchi, complaining about the poor construction of roads. Sign as Kavita/Kirti of House No. 45, Anand Vihar, Ranchi. (Answer in not more than 100 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.**\n\n**House No. 45**\n**Anand Vihar, Ranchi**\n**18 July 2023**\n\nThe Editor\n*The Telegraph*\nRanchi\n\n**Subject: Poor construction of roads in Anand Vihar**\n\nSir\n\nThrough your esteemed daily I wish to draw the attention of the authorities to the **poor construction of roads** in Anand Vihar. The stretch from the colony gate to the main road was laid only last winter, and it is already broken: the tar has peeled off, the bricks have surfaced and a foot-deep pit collects water at the corner.\n\nHeavy vehicles use the lane although it is meant for light traffic, and no quality check seems to have been made before the contractor was paid. Two-wheelers skid there every week.\n\nI request the municipal authorities to inspect the work and re-lay the road properly.\n\nYours faithfully\n**Kavita**\n\n**Format points.** Sender's address and date, addressee, subject, the complaint with **evidence**, and a specific request — within 100 words.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-13",
+   "year": 2023,
+   "qno": "13",
+   "marks": 5,
+   "type": "SA",
+   "chapter": "Creative Writing Skills",
+   "topic": "Article Writing",
+   "question": "Write an article for a newspaper on 'The International Yoga Day'. You are Mohan/Menaka. (Answer in not more than 100 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.**\n\n**THE INTERNATIONAL YOGA DAY**\n\n*— Menaka*\n\nOn **21 June 2015** the world observed the first **International Yoga Day**, after the United Nations accepted a proposal moved by India. The date was chosen because it is the longest day of the year in the northern hemisphere, and the idea behind it is simple: the health of the body and the peace of the mind are not luxuries.\n\nYoga is not a religion and not a set of acrobatic poses; it is a discipline of breathing, posture and attention. Millions joined the mass demonstrations that morning — in Delhi, in New York, on the lawns of schools — and a government campaign for \"wellness\" reached people who never entered a gym.\n\nOn this day we should resolve to practise a little of it daily, rather than only in June.\n\n**Format points.** A title with the writer's name, the origin of the day, its meaning and a practical suggestion — within 100 words.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-14",
+   "year": 2023,
+   "qno": "14",
+   "marks": 3,
+   "type": "VSA",
+   "chapter": "The Last Lesson",
+   "topic": "Short Answer (Literature)",
+   "question": "What was Franz expected to be prepared with for school that day? (Answer in not more than 35 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.** Franz was expected to be **prepared with the rule for participles** — M. Hamel was going to question the class on participles that day, and Franz had not learnt a word of it.\n\n**Explanation.** In \"The Last Lesson\" Franz sets out for school fearing \"a scolding, and even a thrashing\", because he had \"not learnt my participles\". He hopes the noise and bustle of the opening hour will let him slip into his seat unnoticed, and finds instead an \"unusual silence\" — the mark of the last French lesson.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-15",
+   "year": 2023,
+   "qno": "15",
+   "marks": 3,
+   "type": "VSA",
+   "chapter": "A Roadside Stand",
+   "topic": "Short Answer (Literature)",
+   "question": "What was on sale on the roadside stand? (Answer in not more than 35 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.** **Wild berries, crook-necked golden squash with silver warts**, and flowers in wooden quarts were on sale on the roadside stand — \"the roadside stand that too pathetically pled\".\n\n**Explanation.** In Frost's poem the poor villagers set out whatever their small farm produces: berries, gourds and \"a few flowers\", in the hope that the cars will stop and buy. The poet's irony is that the produce is \"in the sun\" and the cars halt only to ask the way.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-16",
+   "year": 2023,
+   "qno": "16",
+   "marks": 3,
+   "type": "VSA",
+   "chapter": "Indigo",
+   "topic": "Short Answer (Literature)",
+   "question": "Who was Raj Kumar Shukla? Why is he described as being 'resolute'? (Answer in not more than 35 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.** Raj Kumar Shukla was a **poor, illiterate sharecropper from Champaran**. He is called **resolute** because he followed Gandhi from Lucknow to Cawnpore and Calcutta for weeks, begging him to fix a date, and finally took him to Patna.\n\n**Explanation.** In \"Indigo\" Gandhi's own account calls him \"resolute\": Shukla would not be put off by appointments, distances or excuses. His persistence is what brought the Champaran wrongs to Gandhi's notice, and it is the small hinge on which the first civil-disobedience movement in India turns.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-17",
+   "year": 2023,
+   "qno": "17",
+   "marks": 3,
+   "type": "VSA",
+   "chapter": "On the Face of It",
+   "topic": "Short Answer (Literature)",
+   "question": "Who is Mr. Lamb? Why does he have a tin leg? (Answer in not more than 35 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.** Mr. Lamb is an **old man who lives alone** in a house with a big garden. He has a **tin leg** because **his leg was blown off in the war**.\n\n**Explanation.** In Susan Hill's play Derry climbs over the wall into Mr. Lamb's garden and finds a man who is not afraid of his burnt face. Mr. Lamb's missing leg makes him understand Derry: children call him \"Lamey-Lamb\", and he lets the name pass because \"it's all relative\". His cheerfulness is what draws Derry out of his shell.",
+   "diagramSvg": ""
+  },
+  {
+   "id": "eng-2023-18",
+   "year": 2023,
+   "qno": "18",
+   "marks": 3,
+   "type": "VSA",
+   "chapter": "The Rattrap",
+   "topic": "Short Answer (Literature)",
+   "question": "How much money did the old Crofter have in his pouch? How did he earn that? (Answer in not more than 35 words.)",
+   "options": [],
+   "correctOption": null,
+   "answer": "**Answer.** The old crofter had **thirty kronor** in his leather pouch. He earned it by selling the **milk of his cow to the creamery every day**; the creamery had paid him thirty kronor the previous month.\n\n**Explanation.** In \"The Rattrap\" the old man shows the three ten-kronor notes to the peddler with pride and hides them under a stone, and the peddler steals them the next morning. The theft is the bait in the peddler's own \"rattrap\" theory — and Edla's Christmas kindness is what finally pulls him out of it.",
+   "diagramSvg": ""
+  }
+ ]
+}
