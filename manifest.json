@@ -382,14 +382,15 @@
   "pdf": "english/2025_english_9325.pdf",
   "subject": "English Core",
   "year": 2025,
-  "status": "pending"
+  "status": "excluded-elective",
+  "note": "JAC English Elective paper (Kaleidoscope + novel), not English Core; outside this site’s syllabus coverage."
  },
  {
   "key": "eng-2025-english-a-core-9120",
   "pdf": "english/2025_english_a-core-9120.pdf",
   "subject": "English Core",
   "year": 2025,
-  "status": "pending"
+  "status": "done"
  },
  {
   "key": "eng-2025-english-a-core-9222",
