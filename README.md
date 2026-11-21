@@ -105,3 +105,10 @@ Every paper in the catalog has been transcribed, question by question, into
 - `build.py` regenerates `jac_pyqs.html` from `data/` and `template.html`.
 - `_work/` holds the one-off generator script for each paper, so any paper can be
   corrected at source and rebuilt rather than hand-edited.
+- `node tools/smoke.js` walks the built site headlessly in jsdom (needs
+  `npm i jsdom`): every subject tab → every chapter → every marks / category /
+  topic bucket (row counts are checked against the bucket badges) → a question of
+  each type → option select, *Check Answer*, *View Solution*, star, Previous/Next,
+  plus the Starred tab and *All Starred*. It also asserts that the bundled KaTeX
+  really typesets the math and reports no `.katex-error`. A full run covers 61
+  chapters, ~1,740 buckets and 61 questions in about 7 seconds.
